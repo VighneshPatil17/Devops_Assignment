@@ -4,19 +4,22 @@ This project demonstrates a complete DevOps setup using Docker Compose and Nginx
 
 ---
 
-## 🧱 Project Structure
+## 📁 Project Structure
 
+```
+Devops_Assignment/
 ├── docker-compose.yml
 ├── nginx
-│ ├── nginx.conf
-│ └── Dockerfile
+│   ├── nginx.conf
+│   └── Dockerfile
 ├── service_1
-│ ├── Dockerfile
-│ └── main.go
+│   ├── Dockerfile
+│   └── main.go
 ├── service_2
-│ ├── Dockerfile
-│ └── app.py
+│   ├── Dockerfile
+│   └── app.py
 └── README.md
+```
 
 
 ---
