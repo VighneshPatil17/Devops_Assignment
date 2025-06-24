@@ -37,7 +37,7 @@ Devops_Assignment/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/VighneshPatil17/Devops_Assignment.git
 cd Assignment
 
 2. Start the application
