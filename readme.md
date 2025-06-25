@@ -116,7 +116,7 @@ Ideal demonstration of containerized microservices behind a single unified entry
 
 🤝 Author
 Made with passion by Vighnesh Patil — aspiring DevOps Engineer
-🌐 GitHub: 
+🌐 GitHub: https://github.com/VighneshPatil17/
 
 
 ---
@@ -131,7 +131,9 @@ That’s it! ✅
 ---
 
 Let me know if you also want:
-- A short **demo video script**
-- GitHub description text
-- Assistance pushing to GitHub
+- A short **demo video script** ##
+🎥 Demo Video
+[Click here to watch the full demo](https://www.youtube.com/watch?v=SokTGr3okog)
+
+
 
